@@ -15,6 +15,13 @@ Olá, sou Eric, um arquiteto e urbanista apaixonado por design e agora embarcand
 ### Contato
 💬 Se você deseja entrar em contato comigo para colaborações ou apenas para bater um papo sobre arquitetura, urbanismo, ou desenvolvimento front-end, sinta-se à vontade para me enviar uma mensagem aqui no GitHub.
 
+<br>
+
+<div>
+<a href="https://github.com/ericrennan">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrennan&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <!--
 **ericrennan/ericrennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
